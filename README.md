@@ -1,2 +1,0 @@
-# progressive-enhancement
-Semantics
