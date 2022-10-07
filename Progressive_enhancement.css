@@ -1,0 +1,52 @@
+p─{
+    font-family: serif;
+    font-size: medium;
+    letter-spacing: 2cm;
+    color: rgb(255, 129, 71);
+    font-style: italic ;
+}
+.good{
+    color: lime;
+}
+.bad{
+    color:red ;
+}
+body{
+    width: 90%;
+    margin: auto;
+    font-size: 160%;
+    background-color: rgb(0, 159, 251);
+    border: firebrick , 3px;
+    border-spacing: 30px;
+    border-top: 80px;
+    border-bottom: 80px;
+    background-image: url('https://img.freepik.com/vecteurs-premium/cartoon-chinese-kids_61878-8;
+    background-position: bottom right ;
+    background: size 15px;
+    width: 200px;
+    height: 200px;
+    border: 2px solid;
+    background-color: aqua;
+}
+
+.farmer{
+    color: blue;
+
+}
+.villagers{
+    color: blueviolet;
+  
+}
+.f{
+    background-image: url("https://github.com/becodeorg/BXL-Johnson-09/blob/main/1.The-Field/03-Front-end-101/bien.png?raw=true");
+    padding:right;
+}
+.d{
+
+}
+.p{
+
+}
+div{
+   display: flex;
+}
